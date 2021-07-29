@@ -1,0 +1,6 @@
+#Notas Fundamentos Java
+
+-- Ler Java EE
+-- Ler Java SE 
+-- Diferencas entre linguagens: compiladas, interpretadas, hibridas
+-- Modulos - Java 9
