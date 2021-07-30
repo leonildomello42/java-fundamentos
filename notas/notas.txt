@@ -4,3 +4,6 @@
 -- Ler Java SE 
 -- Diferencas entre linguagens: compiladas, interpretadas, hibridas
 -- Modulos - Java 9
+-- Classe Object
+-- toString
+-- Classes/membros staticos
